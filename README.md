@@ -2,13 +2,14 @@
 Maya Modeling QC Checker  
 
 #### 使用说明：  
-1. 将  LJ_QCChecker_v107.pyd  文件拷贝到   **...\Documents\maya\20xx\scripts**   (...是在你的文档所在的文件夹。例如：D:\Users\Lingju_admin\Documents\maya\20xx\scripts\)  文件夹下, 如果使用的是中文版，则拷贝到 **...\Documents\maya\20xx\zh_CN\scripts**
+1. 将  LJ_QCChecker_v108.pyd  文件拷贝到   **...\Documents\maya\20xx\scripts**   (...是在你的文档所在的文件夹。例如：D:\Users\Lingju_admin\Documents\maya\20xx\scripts\)  文件夹下, 如果使用的是中文版，则拷贝到 **...\Documents\maya\20xx\zh_CN\scripts**
    
 2. 将  “零距数码maya规范检查器.mel”  拖拽进maya即可打开。或将  “零距数码maya规范检查器.mel”  用记事本打开将里面的内容中键拖拽到工具架。
 
 
 >[!NOTE]
 >**v108 功能更新：**
+>
 >1. 更新UVset名称显示
 >
 >**v107 功能更新：**
@@ -60,6 +61,7 @@ Maya Modeling QC Checker
 
 `多套UVset： 检查场景中的物件是否存在多套UV，请自行判断是否是故意`
 `UV套数： 选中的物件的UVset的套数`
+`名称： 选中的物件的UVset的名称`
 
 ——————————————————————————————————————————  
 
