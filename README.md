@@ -8,6 +8,9 @@ Maya Modeling QC Checker
 
 
 >[!NOTE]
+>**v108 功能更新：**
+>1. 更新UVset名称显示
+>
 >**v107 功能更新：**
 >
 >1. 窗口现在能停靠到主视窗  
