@@ -1,0 +1,1 @@
+python "import LJ_QCChecker_v109; LJ_QCChecker_v109.QCChecker()";
