@@ -2,12 +2,16 @@
 Maya Modeling QC Checker  
 
 #### 使用说明：  
-1. 将  LJ_QCChecker_v108.pyd  文件拷贝到   **...\Documents\maya\20xx\scripts**   (...是在你的文档所在的文件夹。例如：D:\Users\Lingju_admin\Documents\maya\20xx\scripts\)  文件夹下, 如果使用的是中文版，则拷贝到 **...\Documents\maya\20xx\zh_CN\scripts**
+1. 将  LJ_QCChecker_v109.pyd  文件拷贝到   **...\Documents\maya\20xx\scripts**   (...是在你的文档所在的文件夹。例如：D:\Users\Lingju_admin\Documents\maya\20xx\scripts\)  文件夹下, 如果使用的是中文版，则拷贝到 **...\Documents\maya\20xx\zh_CN\scripts**
    
 2. 将  “零距数码maya规范检查器.mel”  拖拽进maya即可打开。或将  “零距数码maya规范检查器.mel”  用记事本打开将里面的内容中键拖拽到工具架。
 
 
 >[!NOTE]
+>**v109 功能更新：**
+>
+>1. 杀毒功能beta版提供
+>
 >**v108 功能更新：**
 >
 >1. 更新UVset名称显示
@@ -99,6 +103,8 @@ Maya Modeling QC Checker
 `清理空节点，空组等： 清理掉垃圾节点，幽灵节点，系统不能清理的空组等，可能有假死状态，请耐心等待`  
 
 ​`安全删除所有图层： 将所有物件都移出图层以后再清理。`
+
+​`病毒查杀（beta）：能再打开ma，或者mb时如果有病毒会自动提醒，并提供查杀功能`
 
 **场景清理：**
 
